@@ -1,1 +1,5 @@
 this is the story
+this story is about a spooky clown.
+in this clown's free time he loves to do java.
+
+the end
