@@ -2,4 +2,7 @@ this is the story
 this story is about a spooky clown.
 in this clown's free time he loves to do java.
 
+once he had a chance getting to know some new friends who are taking CS400 at UW-Madison.
+he wanted to take that course but wasn't able to do so.
+
 the end
