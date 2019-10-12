@@ -15,4 +15,6 @@ A SPOOKY CARNIVAL!!!
 The clown had a great time at the carnival and everyone lived happily ever 
 after
 
+He never thought about java again
+
 the end
